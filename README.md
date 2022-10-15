@@ -6,7 +6,7 @@ I'm a currently studying Web And Mobile Hybrid Application Development from SMIT
 <br/>
 <br/>
 
-<img align="right" class="GIF" alt="GIF" src="/ExemplaryFairFeline-max-1mb.gif" width="350px"/>
+<img align="right" class="GIF" alt="GIF" src="/coding.gif" width="350px"/>
 
 
 - 🔭 I’m currently working on **Javascript Projects**
