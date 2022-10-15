@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaqoob Ahmed</h1>
-<h3 align="center">A Passionate Web Developer from Pakistan</h3>
+<h3 align="center">A Passionate Developer from Pakistan</h3>
 
 I'm a currently studying Web And Mobile Hybrid Application Development from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 .I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
