@@ -45,7 +45,9 @@ src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" h
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 alt="nodejs" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a></p>
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://netlify.com/" target="_blank" rel="noreferrer"> <img
+src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="git" width="40" height="40" /> </a> <a href="https://surge.sh/" target="_blank" rel="noreferrer"> <img
+src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" height="40" /> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqoob-ahmed&show_icons=true&locale=en&layout=compact" alt="yaqoob-ahmed" /></p>
 
