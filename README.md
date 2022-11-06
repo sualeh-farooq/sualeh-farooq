@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaqoob Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Sualeh Farooq</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
 I'm a currently studying Web And Mobile Hybrid Application Development from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 .I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -17,7 +17,7 @@ I'm a currently studying Web And Mobile Hybrid Application Development from SMIT
 
 - 💬 Ask me about *** Javascript**
 
-- 📫 How to reach me **yaqoobfarooq00@gmail.com**
+- 📫 How to reach me **sualehfarooq65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,8 +49,8 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="git" width="40" height="40" /> </a> <a href="https://surge.sh/" target="_blank" rel="noreferrer"> <img
 src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" height="40" /> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqoob-ahmed&show_icons=true&locale=en&layout=compact" alt="yaqoob-ahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sualeh-farooq&show_icons=true&locale=en&layout=compact" alt="sualeh-farooq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaqoob-ahmed&show_icons=true&locale=en" alt="yaqoob-ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sualeh-farooq&show_icons=true&locale=en" alt="sualeh-farooq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaqoob-ahmed&" alt="yaqoob-ahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sualeh-farooq&" alt="sualeh-farooq" /></p>
