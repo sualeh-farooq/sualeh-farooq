@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sualeh Farooq</h1>
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 
-I'm a currently studying Web And Mobile Hybrid Application Development from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 .I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a currently studying Web And Mobile Hybrid Application Development ( MERN STACK ) from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 .I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 <br/>
 <br/>
