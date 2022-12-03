@@ -7,6 +7,8 @@ Passionate Junior Frontend Software Developer having an experience of building W
 <br/>
 <br/>
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <img align="right" class="GIF" alt="GIF" src="/coding.gif" width="350px"/>
 
 
