@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sualeh Farooq</h1>
-<h3 align="center">A Passionate Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Sualeh Farooq 👨‍💻  </h1>
 
-I'm a currently studying Web And Mobile Hybrid Application Development ( MERN STACK ) from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 .I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F7D300&vCenter=true&width=435&lines=Junior+Frontend+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
+
+Passionate Junior Frontend Software Developer having an experience of building Web Applications with HTML / CSS / JavaScript / React.JS / Firebase and some other cools libraries & frameworks. Aspiring to combine broad background with strong technical skills to excel as a Developer ,
 
 <br/>
 <br/>
