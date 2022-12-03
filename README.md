@@ -7,24 +7,45 @@ Passionate Junior Frontend Software Developer having an experience of building W
 <br/>
 <br/>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 <img align="right" class="GIF" alt="GIF" src="/coding.gif" width="350px"/>
 
 
 - 🔭 I’m currently working on **Javascript Projects**
 
-- 🌱 I’m currently learning **Javascript , React**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about *** Javascript**
 
-- 📫 How to reach me **sualehfarooq65@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+## Connect with me  
+<div align="left">
+  
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/sualeh-farooq/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="sualehfarooq65@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/sualehfarooq" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/https://www.facebook.com/Sualeh543" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/https://codepen.io/sualeh543" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+
+<br/>
+<br/>
+<br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -52,8 +73,12 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="git" width="40" height="40" /> </a> <a href="https://surge.sh/" target="_blank" rel="noreferrer"> <img
 src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" height="40" /> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sualeh-farooq&show_icons=true&locale=en&layout=compact" alt="sualeh-farooq" /></p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sualeh-farooq&show_icons=true&locale=en" alt="sualeh-farooq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sualeh-farooq&" alt="sualeh-farooq" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sualeh-farooq&theme=blue-green)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sualeh-farooq&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+
+
