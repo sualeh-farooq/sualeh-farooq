@@ -76,10 +76,10 @@ src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" heig
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sualeh-farooq&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sualeh-farooq&theme=react)
 <br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sualeh-farooq&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sualeh-farooq&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
