@@ -12,11 +12,11 @@ Passionate Junior Frontend Software Developer having an experience of building W
 <img align="right" class="GIF" alt="GIF" src="/coding.gif" width="350px"/>
 
 
-- 🔭 I’m currently working on **Javascript Projects**
+- 🔭 I’m currently working on **React Projects**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **React / Javascript**
 
 - 📧 Reach out via Email **sualehfarooq65@gmail.com**
 
@@ -76,7 +76,7 @@ src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" heig
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sualeh-farooq&theme=react)
+
 <br/>
 
 
