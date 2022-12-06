@@ -75,7 +75,7 @@ src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="git" width="40" heig
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
-
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sualeh-farooq&hide=html,css)(https://git.io/streak-stats)
 
 <br/>
 
