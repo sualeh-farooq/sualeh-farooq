@@ -2,7 +2,7 @@
 
 ### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Software+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
+[comment]: # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Software+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
 
 Passionate Software Developer having an experience of building Web Applications with HTML / CSS / JavaScript / React.JS / Vue.Js / React Native / Firebase and some other cools libraries & frameworks. Aspiring to combine broad background with strong technical skills to excel as a Developer ,
 
