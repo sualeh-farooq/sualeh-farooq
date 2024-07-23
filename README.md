@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sualeh Farooq 👨‍💻  </h1>
+### Hi there I am Hasham Vakani <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 
+
+### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Software+Developer;JavaScript+Developer" alt="Typing SVG" /></a>
 
