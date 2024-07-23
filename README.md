@@ -35,7 +35,7 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Languages and Tools
 
 
 
