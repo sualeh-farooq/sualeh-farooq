@@ -1,4 +1,4 @@
-### Hi there I am Hasham Vakani <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 
+### Hi there I am Sualeh Muhammad <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 
 
 ### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
