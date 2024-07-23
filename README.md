@@ -10,7 +10,7 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 
 
 
-<img align="right" class="GIF" alt="GIF" src="/coding.gif" width="350px"/>
+<img align="right" class="GIF" alt="GIF" src="/coding.gif"  width="350px"/>
 
 
 
