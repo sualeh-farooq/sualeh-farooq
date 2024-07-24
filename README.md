@@ -23,6 +23,15 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 <br/>
 <br/>
 
+### :medal_sports: Projects :
+- **ParadiseDev (Next.js + Typescript)  => :link: https://paradisedev.net/**
+- **Paradise Gaming (Next.js + Typescript)  => :link: https://paradisegaming.net/**
+- **N-Healthcare (Next.js + Typescript + Supabase) => :link: https://nhealthcare.com.pk/**
+- **Xcrims (React.js + Node.js) => :link: https://scrims.xyz/**
+- **NeuralTask (Next.js + Typescript)  => :link: https://neural-task-ai.vercel.app/**
+- **Strategic Choices (Vue.js + Typescript)  => :link: https://strategic-choices-updated.netlify.app/**
+
+<br />
 
 ## 📫 How to reach me:  
 
@@ -31,6 +40,9 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/sualeh-farooq/
 - - ✉️ Email:                     => :link: sualehfarooq65@gmail.com
 <!-- - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid -->
+
+
+
 
 
 <br/>
