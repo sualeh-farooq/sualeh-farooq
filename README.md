@@ -23,7 +23,8 @@ I am a skilled Software Developer with extensive experience in front-end and ful
 <br/>
 <br/>
 
-### :medal_sports: Projects :
+## :medal_sports: Projects :
+
 - **ParadiseDev (Next.js + Typescript)  => :link: https://paradisedev.net/**
 - **Paradise Gaming (Next.js + Typescript)  => :link: https://paradisegaming.net/**
 - **N-Healthcare (Next.js + Typescript + Supabase) => :link: https://nhealthcare.com.pk/**
